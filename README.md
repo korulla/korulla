@@ -2,7 +2,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Coding" width="100%" height="auto">
 
  <h1 align="center">console.log("Hello World! 🌍 I'm Ben")</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=korulla&label=Profile%20views&color=0e75b6&style=flat" alt="korulla" /> </p>
 <h3 align="left">🌐 Crafting the future web with the wizardry of JavaScript, React, Node.js, and Express—embark on this exhilarating coding odyssey! 💻✨🚀</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding" width="400" height="auto">
 
