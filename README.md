@@ -16,8 +16,9 @@
 
 👨‍💻 All of my projects are available at [https://github.com/korulla?tab=repositories](https://github.com/korulla?tab=repositories)
 
-
 📄 Know about my experiences [https://korulla.github.io/Portfolio/BenResume.pdf](https://korulla.github.io/Portfolio/BenResume.pdf)
+
+🏆 Explore my certificates [https://drive.google.com/drive/folders/1TgmRAYKpAhMkwEzuqht54ikMd-CM1g06)
 
 ### <h5 align="left"> 
   🔍 Detail-oriented problem solver, I sculpt digital landscapes where every line of code is an art, bringing ideas to life.
